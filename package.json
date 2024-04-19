@@ -1,0 +1,12 @@
+{
+  "homepage": "https://omarfrouk.github.io/ella_boutique96",
+  "name": "ella_boutique96",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
