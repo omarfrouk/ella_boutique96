@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ella_boutique96/static/css/main.f2dcf116.css",
-    "main.js": "/ella_boutique96/static/js/main.2d6242ce.js",
+    "main.css": "/ella_boutique96/static/css/main.2a2599fb.css",
+    "main.js": "/ella_boutique96/static/js/main.d82377f1.js",
     "static/media/product-28-5.mp4": "/ella_boutique96/static/media/product-28-5.16adcbddc6889566346e.mp4",
     "static/media/product-30-10.mp4": "/ella_boutique96/static/media/product-30-10.d3f764687b4a3cb6dd48.mp4",
     "static/media/product1-1.mp4": "/ella_boutique96/static/media/product1-1.0d6d728823ef8a42053e.mp4",
@@ -390,16 +390,14 @@
     "static/media/product-32-9.webp": "/ella_boutique96/static/media/product-32-9.31565bc4505c4c761a7e.webp",
     "static/media/product-32-8.webp": "/ella_boutique96/static/media/product-32-8.4da933b09f56bf280771.webp",
     "static/media/product-29-7.webp": "/ella_boutique96/static/media/product-29-7.10e8be143971fb6af6c7.webp",
-    "static/media/snapchat.png": "/ella_boutique96/static/media/snapchat.c389a445e67640d77466.png",
     "static/media/instagram.png": "/ella_boutique96/static/media/instagram.3e09c1126367ab951439.png",
-    "static/media/telegram.png": "/ella_boutique96/static/media/telegram.23929e29146c9b37ad5a.png",
     "static/media/svg_title.svg": "/ella_boutique96/static/media/svg_title.6cbdfdc92c6a3c4e9259878a3c2b8d56.svg",
     "index.html": "/ella_boutique96/index.html",
-    "main.f2dcf116.css.map": "/ella_boutique96/static/css/main.f2dcf116.css.map",
-    "main.2d6242ce.js.map": "/ella_boutique96/static/js/main.2d6242ce.js.map"
+    "main.2a2599fb.css.map": "/ella_boutique96/static/css/main.2a2599fb.css.map",
+    "main.d82377f1.js.map": "/ella_boutique96/static/js/main.d82377f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2dcf116.css",
-    "static/js/main.2d6242ce.js"
+    "static/css/main.2a2599fb.css",
+    "static/js/main.d82377f1.js"
   ]
 }
