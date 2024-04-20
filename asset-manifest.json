@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ella_boutique96/static/css/main.506e06f4.css",
+    "main.css": "/ella_boutique96/static/css/main.82f45414.css",
     "main.js": "/ella_boutique96/static/js/main.bfd3515d.js",
     "static/media/product-28-5.mp4": "/ella_boutique96/static/media/product-28-5.16adcbddc6889566346e.mp4",
     "static/media/product-30-10.mp4": "/ella_boutique96/static/media/product-30-10.d3f764687b4a3cb6dd48.mp4",
@@ -394,11 +394,11 @@
     "static/media/instagram.png": "/ella_boutique96/static/media/instagram.3e09c1126367ab951439.png",
     "static/media/svg_title.svg": "/ella_boutique96/static/media/svg_title.6cbdfdc92c6a3c4e9259878a3c2b8d56.svg",
     "index.html": "/ella_boutique96/index.html",
-    "main.506e06f4.css.map": "/ella_boutique96/static/css/main.506e06f4.css.map",
+    "main.82f45414.css.map": "/ella_boutique96/static/css/main.82f45414.css.map",
     "main.bfd3515d.js.map": "/ella_boutique96/static/js/main.bfd3515d.js.map"
   },
   "entrypoints": [
-    "static/css/main.506e06f4.css",
+    "static/css/main.82f45414.css",
     "static/js/main.bfd3515d.js"
   ]
 }
