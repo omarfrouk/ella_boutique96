@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ella_boutique96/static/css/main.9c2f56d7.css",
-    "main.js": "/ella_boutique96/static/js/main.2fe86b58.js",
+    "main.css": "/ella_boutique96/static/css/main.273a79ac.css",
+    "main.js": "/ella_boutique96/static/js/main.7dc409ab.js",
     "static/media/product-28-5.mp4": "/ella_boutique96/static/media/product-28-5.16adcbddc6889566346e.mp4",
     "static/media/product-34-8.mp4": "/ella_boutique96/static/media/product-34-8.75766a69c7b74b00d7b7.mp4",
     "static/media/product-3-8.mp4": "/ella_boutique96/static/media/product-3-8.b75bd34966f223f6592e.mp4",
@@ -143,6 +143,7 @@
     "static/media/product-9-5.webp": "/ella_boutique96/static/media/product-9-5.c177412b00a850a165fb.webp",
     "static/media/product1-9.jpg": "/ella_boutique96/static/media/product1-9.7e15e3829d8e06a047a3.jpg",
     "static/media/product-24-2.avif": "/ella_boutique96/static/media/product-24-2.d0bb238a033e9a4341d5.avif",
+    "static/media/mainPageIcon.png": "/ella_boutique96/static/media/mainPageIcon.03c63a70699c036f222c.png",
     "static/media/product-27-7.webp": "/ella_boutique96/static/media/product-27-7.769ae5f455d3329c057b.webp",
     "static/media/product-33-2.webp": "/ella_boutique96/static/media/product-33-2.6fdb657519ebcdb0ab9a.webp",
     "static/media/product-24-1.jpg": "/ella_boutique96/static/media/product-24-1.b18c824563996ace7e4b.jpg",
@@ -501,7 +502,6 @@
     "static/media/product-11-3.jpeg": "/ella_boutique96/static/media/product-11-3.e8162b716b0275edb71f.jpeg",
     "static/media/product-29-10.webp": "/ella_boutique96/static/media/product-29-10.9a15ffca6c130bcd6305.webp",
     "static/media/product-28-3.jpeg": "/ella_boutique96/static/media/product-28-3.f8c9716f2634280b1e0a.jpeg",
-    "static/media/mainPageIcon.png": "/ella_boutique96/static/media/mainPageIcon.4efbda423afa59a8d0ed.png",
     "static/media/product-4-5.jpeg": "/ella_boutique96/static/media/product-4-5.3c433848b370c126877d.jpeg",
     "static/media/product-36-6.jpeg": "/ella_boutique96/static/media/product-36-6.31393ffc55b7b1b175cc.jpeg",
     "static/media/product-17-8.avif": "/ella_boutique96/static/media/product-17-8.a08ed2274b8683c36bbf.avif",
@@ -793,11 +793,11 @@
     "static/media/product-11-7.webp": "/ella_boutique96/static/media/product-11-7.7e3746810f0fd8ffd1f0.webp",
     "static/media/product-11-6.webp": "/ella_boutique96/static/media/product-11-6.c684acbd6a877e2927bf.webp",
     "index.html": "/ella_boutique96/index.html",
-    "main.9c2f56d7.css.map": "/ella_boutique96/static/css/main.9c2f56d7.css.map",
-    "main.2fe86b58.js.map": "/ella_boutique96/static/js/main.2fe86b58.js.map"
+    "main.273a79ac.css.map": "/ella_boutique96/static/css/main.273a79ac.css.map",
+    "main.7dc409ab.js.map": "/ella_boutique96/static/js/main.7dc409ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c2f56d7.css",
-    "static/js/main.2fe86b58.js"
+    "static/css/main.273a79ac.css",
+    "static/js/main.7dc409ab.js"
   ]
 }
