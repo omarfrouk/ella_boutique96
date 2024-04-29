@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ella_boutique96/static/css/main.99908513.css",
-    "main.js": "/ella_boutique96/static/js/main.9e37eecf.js",
+    "main.css": "/ella_boutique96/static/css/main.807774f4.css",
+    "main.js": "/ella_boutique96/static/js/main.9ac0bf00.js",
     "static/media/product-28-5.mp4": "/ella_boutique96/static/media/product-28-5.16adcbddc6889566346e.mp4",
     "static/media/product-34-8.mp4": "/ella_boutique96/static/media/product-34-8.75766a69c7b74b00d7b7.mp4",
     "static/media/product-3-8.mp4": "/ella_boutique96/static/media/product-3-8.b75bd34966f223f6592e.mp4",
@@ -977,6 +977,7 @@
     "static/media/product-32-9.webp": "/ella_boutique96/static/media/product-32-9.31565bc4505c4c761a7e.webp",
     "static/media/product-32-8.webp": "/ella_boutique96/static/media/product-32-8.4da933b09f56bf280771.webp",
     "static/media/product-6-1.avif": "/ella_boutique96/static/media/product-6-1.a5bafa82a333fcbef0f0.avif",
+    "static/media/videoThumbnail.png": "/ella_boutique96/static/media/videoThumbnail.a22b97278cd029716b29.png",
     "static/media/product-34-1.webp": "/ella_boutique96/static/media/product-34-1.6df81b466c189017795c.webp",
     "static/media/product-29-7.webp": "/ella_boutique96/static/media/product-29-7.10e8be143971fb6af6c7.webp",
     "static/media/product-40-7.webp": "/ella_boutique96/static/media/product-40-7.71db5047b65d57e05717.webp",
@@ -993,11 +994,11 @@
     "static/media/product-11-6.webp": "/ella_boutique96/static/media/product-11-6.c684acbd6a877e2927bf.webp",
     "static/media/product-6-2.avif": "/ella_boutique96/static/media/product-6-2.aafd998a5737f2fa0913.avif",
     "index.html": "/ella_boutique96/index.html",
-    "main.99908513.css.map": "/ella_boutique96/static/css/main.99908513.css.map",
-    "main.9e37eecf.js.map": "/ella_boutique96/static/js/main.9e37eecf.js.map"
+    "main.807774f4.css.map": "/ella_boutique96/static/css/main.807774f4.css.map",
+    "main.9ac0bf00.js.map": "/ella_boutique96/static/js/main.9ac0bf00.js.map"
   },
   "entrypoints": [
-    "static/css/main.99908513.css",
-    "static/js/main.9e37eecf.js"
+    "static/css/main.807774f4.css",
+    "static/js/main.9ac0bf00.js"
   ]
 }
