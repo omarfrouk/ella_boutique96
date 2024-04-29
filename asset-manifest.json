@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ella_boutique96/static/css/main.807774f4.css",
-    "main.js": "/ella_boutique96/static/js/main.9ac0bf00.js",
+    "main.css": "/ella_boutique96/static/css/main.b3eba260.css",
+    "main.js": "/ella_boutique96/static/js/main.52bc94ea.js",
     "static/media/product-28-5.mp4": "/ella_boutique96/static/media/product-28-5.16adcbddc6889566346e.mp4",
     "static/media/product-34-8.mp4": "/ella_boutique96/static/media/product-34-8.75766a69c7b74b00d7b7.mp4",
     "static/media/product-3-8.mp4": "/ella_boutique96/static/media/product-3-8.b75bd34966f223f6592e.mp4",
@@ -968,6 +968,7 @@
     "static/media/product-33-6.webp": "/ella_boutique96/static/media/product-33-6.04d9d5d10fa685f62beb.webp",
     "static/media/product-4-6.jpg": "/ella_boutique96/static/media/product-4-6.5b03a6cc9338fa27fcbb.jpg",
     "static/media/product-9-5.jpeg": "/ella_boutique96/static/media/product-9-5.d3de1803a33fa97a7bb9.jpeg",
+    "static/media/menuIcon.png": "/ella_boutique96/static/media/menuIcon.52678bb4821b5f034bce.png",
     "static/media/product-9-4.jpeg": "/ella_boutique96/static/media/product-9-4.5ec2322b342d80f77a01.jpeg",
     "static/media/product-3-10.jpeg": "/ella_boutique96/static/media/product-3-10.896a767ddeed861c7172.jpeg",
     "static/media/product-10-1.webp": "/ella_boutique96/static/media/product-10-1.d8455f557634314e7b6b.webp",
@@ -994,11 +995,11 @@
     "static/media/product-11-6.webp": "/ella_boutique96/static/media/product-11-6.c684acbd6a877e2927bf.webp",
     "static/media/product-6-2.avif": "/ella_boutique96/static/media/product-6-2.aafd998a5737f2fa0913.avif",
     "index.html": "/ella_boutique96/index.html",
-    "main.807774f4.css.map": "/ella_boutique96/static/css/main.807774f4.css.map",
-    "main.9ac0bf00.js.map": "/ella_boutique96/static/js/main.9ac0bf00.js.map"
+    "main.b3eba260.css.map": "/ella_boutique96/static/css/main.b3eba260.css.map",
+    "main.52bc94ea.js.map": "/ella_boutique96/static/js/main.52bc94ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.807774f4.css",
-    "static/js/main.9ac0bf00.js"
+    "static/css/main.b3eba260.css",
+    "static/js/main.52bc94ea.js"
   ]
 }
