@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba987949.css",
+    "main.css": "/static/css/main.a8803207.css",
     "main.js": "/static/js/main.46d01c1c.js",
     "static/media/product-28-5.mp4": "/static/media/product-28-5.16adcbddc6889566346e.mp4",
     "static/media/product-34-8.mp4": "/static/media/product-34-8.75766a69c7b74b00d7b7.mp4",
@@ -1129,7 +1129,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.ba987949.css",
+    "static/css/main.a8803207.css",
     "static/js/main.46d01c1c.js"
   ]
 }
