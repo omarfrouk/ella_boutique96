@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0ca3b5d7.css",
-    "main.js": "/static/js/main.88fb6ffe.js",
+    "main.js": "/static/js/main.9672e7b5.js",
     "static/media/product-28-5.mp4": "/static/media/product-28-5.16adcbddc6889566346e.mp4",
     "static/media/product-34-8.mp4": "/static/media/product-34-8.75766a69c7b74b00d7b7.mp4",
     "static/media/product-3-8.mp4": "/static/media/product-3-8.b75bd34966f223f6592e.mp4",
@@ -699,11 +699,11 @@
     "static/media/product-25-6.avif": "/static/media/product-25-6.266ba3c43f4f6d611f25.avif",
     "static/media/product-25-7.avif": "/static/media/product-25-7.266ba3c43f4f6d611f25.avif",
     "static/media/product-38-1.jpeg": "/static/media/product-38-1.00e3730b5e61fbdf92bb.jpeg",
+    "static/media/product-25-3.jpeg": "/static/media/product-25-3.20086055be6ec66f0dcd.jpeg",
     "static/media/product-4-4.webp": "/static/media/product-4-4.237b6e1b9d9faf4fd572.webp",
     "static/media/product-32-3.jpeg": "/static/media/product-32-3.eb625a6be2097d7d8b67.jpeg",
     "static/media/product-14-4.avif": "/static/media/product-14-4.b0063466741ceb07a956.avif",
     "static/media/product-30-5.jpeg": "/static/media/product-30-5.8f423dcfc85f53c65f8a.jpeg",
-    "static/media/product-25-3.jpeg": "/static/media/product-25-3.20086055be6ec66f0dcd.jpeg",
     "static/media/product-19-6.jpeg": "/static/media/product-19-6.882a2c478037ed26998e.jpeg",
     "static/media/product-22-5.jpeg": "/static/media/product-22-5.69f8b6420ee17562d5e1.jpeg",
     "static/media/product-13-1.jpg": "/static/media/product-13-1.27d4c6799d75e0daeee6.jpg",
@@ -1129,6 +1129,6 @@
   },
   "entrypoints": [
     "static/css/main.0ca3b5d7.css",
-    "static/js/main.88fb6ffe.js"
+    "static/js/main.9672e7b5.js"
   ]
 }
