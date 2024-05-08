@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ebe32bca.css",
-    "main.js": "/static/js/main.ba2ec919.js",
+    "main.css": "/static/css/main.f94c2dcf.css",
+    "main.js": "/static/js/main.9f15a372.js",
     "static/media/product-44-7.mp4": "/static/media/product-44-7.229133a43ffeacf480d8.mp4",
     "static/media/product-43-15.mp4": "/static/media/product-43-15.186d821493665a30b380.mp4",
     "static/media/product-28-5.mp4": "/static/media/product-28-5.16adcbddc6889566346e.mp4",
@@ -1340,6 +1340,7 @@
     "static/media/product-19-14.jpeg": "/static/media/product-19-14.5862fd194747ae1be769.jpeg",
     "static/media/product-19-12.jpeg": "/static/media/product-19-12.4cded64e70334f6ac42c.jpeg",
     "static/media/product-35-4.webp": "/static/media/product-35-4.b2e7dc294cd0d84d6f11.webp",
+    "static/media/eidAd.jpeg": "/static/media/eidAd.256bc00e4e16ecaada73.jpeg",
     "static/media/product-33-5.webp": "/static/media/product-33-5.55ce74dbaaddb0f5245b.webp",
     "static/media/product-19-3.webp": "/static/media/product-19-3.286b1aaa4cc6267f7e7c.webp",
     "static/media/product-19-11.jpeg": "/static/media/product-19-11.fba5c0be514dad7aae8a.jpeg",
@@ -1355,7 +1356,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.ebe32bca.css",
-    "static/js/main.ba2ec919.js"
+    "static/css/main.f94c2dcf.css",
+    "static/js/main.9f15a372.js"
   ]
 }
